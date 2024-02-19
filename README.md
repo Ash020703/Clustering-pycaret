@@ -43,5 +43,5 @@ The following tasks are performed in the assignment:
 * Ensure that you have sufficient computational resources as some operations, especially visualization of high-dimensional data, may require significant computational power.
 
 ## Author
-Ananya Gupta
+Ashmeet Kaur
 
